@@ -170,6 +170,9 @@ let g:miniBufExplMapCTabSwitchBufs = 1
 "
 "      插件区域，使用的是vim-plug插件管理器
 "      github地址：https://github.com/junegunn/vim-plug/
+"      unix服务器一键安装方法：
+"      curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+"          https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 "
 "----------------------------------------------------------------------------
 call plug#begin()
